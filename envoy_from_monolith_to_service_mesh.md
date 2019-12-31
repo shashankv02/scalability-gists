@@ -36,10 +36,3 @@ outlier detection etc
 * Best in class observability: stats, logging, tracing
 
 * Edge proxy: routing and TLS. Can act as nginx replacement.
-
-
-
-
-
-
-
